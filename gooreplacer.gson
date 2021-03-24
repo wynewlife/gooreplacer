@@ -3,12 +3,12 @@
     "createAt": "Wed Dec 05 2018 21:53:22 GMT+0800 (China Standard Time)",
     "rules": {
         "ajax.googleapis.com": {
-            "dstURL": "ajax.lug.ustc.edu.cn",
+            "dstURL": "ajax.useso.com",
             "kind": "wildcard",
             "enable": true
         },
         "fonts.googleapis.com": {
-            "dstURL": "fonts.lug.ustc.edu.cn",
+            "dstURL": "fonts.useso.com",
             "kind": "wildcard",
             "enable": false
         },
